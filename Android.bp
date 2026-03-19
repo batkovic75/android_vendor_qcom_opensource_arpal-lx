@@ -6,6 +6,7 @@ cc_library_headers {
         "context_manager/inc",
         "device/inc",
         "inc",
+        "ipc/HwBinders/pal_ipc_server/inc",
         "plugins/codecs",
         "resource_manager/inc",
         "session/inc",
